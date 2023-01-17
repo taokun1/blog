@@ -4,6 +4,6 @@ open_graph:
 sidebar:
   menu:
     post: '[btn.blog](/)'
-    wiki: '[btn.wiki](/wiki/)'
+    wiki: '[btn.wiki](/index/)'
     notes: '[笔记](/notes/)'
     more: '[更多](/more/)'
